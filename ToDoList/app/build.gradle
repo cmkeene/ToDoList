@@ -27,4 +27,8 @@ dependencies {
     compile 'com.parse.bolts:bolts-android:1.+'
     compile files('libs/Parse-1.10.3/Parse-1.10.3.jar')
     compile files('libs/Parse-1.10.3/bolts-android-1.2.1.jar')
+    compile files('libs/Parse-1.10.3/ParseTwitterUtils-1.10.3.jar')
+    compile files('libs/Parse-1.10.3/ParseFacebookUtilsV4-1.10.3.jar')
+    compile files('libs/Parse-1.10.3/ParseFacebookUtilsV3-1.10.3.jar')
+    compile files('libs/Parse-1.10.3/ParseCrashReporting-1.10.3.jar')
 }
